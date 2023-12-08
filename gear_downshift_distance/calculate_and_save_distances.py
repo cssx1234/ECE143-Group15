@@ -84,7 +84,7 @@ def calculate_distances(location, year, driver_list):
         session.load()
 
         results = session.results
-        results.to_csv('./saved_csv_files/results.csv')
+        results.to_csv('../saved_csv_files/results.csv')
         
         if 'Position' in results.columns[results.isna().any()].tolist():
             continue
@@ -145,7 +145,7 @@ if __name__ == "__main__":
             calculate_distances(location, year, common_drivers)
             df = pd.DataFrame.from_dict(distances, orient='index')
             df = df.transpose()
-            df.to_csv(f'./saved_csv_files/out_{location}.csv') # saving results to csv file
+            df.to_csv(f'../saved_csv_files/out_{location}.csv') # saving results to csv file
         
     except Exception as e:
         print(e)
@@ -153,6 +153,6 @@ if __name__ == "__main__":
     finally: # if exception occurs, save data calculated until exception occured
         df = pd.DataFrame.from_dict(distances, orient='index')
         df = df.transpose()
-        df.to_csv(f'./saved_csv_files/out_{location}.csv')
+        df.to_csv(f'../saved_csv_files/out_{location}.csv')
 
     print(exceptions)
