@@ -71,7 +71,7 @@ git clone https://github.com/cssx1234/ECE143-Group15
 3. Navigate into the cloned folder.
 
 ```sh
-cd ECE143-Group15
+cd ECE143-Group15/gear_downshift_distance
 ```
 
 4. Install the required dependencies. \
@@ -79,6 +79,12 @@ cd ECE143-Group15
 
 ```sh
 pip install -r requirements.txt
+```
+
+5. To calculate the distances between the downshifts and the corners run:
+
+```sh
+python calculate_and_save_distances.py
 ```
 
 #### Visualizing all plots
