@@ -20,6 +20,8 @@ In Formula 1 racing, the delicate interplay between various factors can signific
 
 ## File Structure / Scripts
 
+Included in each folder are the necessary scripts for each inference as well as READEME's which contain more detailed analyses.
+
 ### Age & Experience vs. Driver Performance
 
 _Note_: All related content found in the `Age_Vs_Experience_Inference` Folder
