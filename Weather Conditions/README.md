@@ -47,11 +47,11 @@ The complexity of Formula 1 dynamics, including driver skill, technology, and st
 
 This analysis provides a broad overview and does not explore microclimates or specific events. Future research could delve deeper into these factors for a more nuanced understanding.
 
-## Data Analysis Scripts
+## Weather Conditions vs. Driver Performance Analysis Scripts
 
-In the "data gathering script" folder, find the 'f1_weather_data_analysis.py' script for data collection. The "plots scripts" folder contains scripts to generate correlation and histogram plots.
+In the "data gathering script" folder, find the 'f1_weather_data_analysis.py' script for data collection. After running the script, it should produce five csv files used for data analysis. The "plots scripts" folder contains scripts to generate correlation and histogram plots either  individually, or all together using "plots.py". Python 3.9.13 was used in making these scripts.
 
-## Additional Information
+## Additional Info
 
 - **Maximum Values:**
   - AirTemp: 36.60°C
