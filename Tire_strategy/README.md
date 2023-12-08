@@ -2,7 +2,7 @@
 
 ---
 
-![Cover Image](./pictures/Tire_change.png)
+![Cover Image](./pictures/Tire_change.jpg)
 
 
 
