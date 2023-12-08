@@ -2,7 +2,7 @@
 
 ---
 
-![Cover Image](https://c4.wallpaperflare.com/wallpaper/659/965/95/red-bull-f1-hd-cars-wallpaper-preview.jpg)
+![Cover Image](./pictures/Tire_change.png)
 
 
 
@@ -16,3 +16,16 @@ In Formula 1 racing, tire strategy is critical for success. We are refining a  m
 ## Data Collection
 
 Data from the 2017-2022 F1 Grand Prixes were pulled from the FastF1 API.
+
+## Output
+
+![Tire usage](./pictures/Tire_usage.png)
+![Strategy and Performance](./pictures/Strategy_and_Performance.png)
+
+## Analysis
+
+- TIRE USAGE TRENDS: The drivers most frequently used medium tires, with the usage of soft and hard tires being roughly similar.
+- MORE CHANGES, HIGHER RANK: Although changing tires takes a few seconds, the results show that strategies involving more tire changes often lead to higher rankings.
+- HARD TIRE BETTER: Although people generally believe that soft tires perform better, the most effective strategies consist only of medium and hard tires, while the worst strategies include soft tires
+- INSIGHTS AND LIMITATIONS: Final position for various strategies range from 5th to 15th place, suggesting the model's inability to predict driver rankings precisely. However, it provides directional insights for rough predictions based solely on tire strategy.
+ 
