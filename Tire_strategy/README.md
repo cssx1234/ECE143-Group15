@@ -17,6 +17,11 @@ In Formula 1 racing, tire strategy is critical for success. We are refining a  m
 
 Data from the 2017-2022 F1 Grand Prixes were pulled from the FastF1 API.
 
+## Running the Code
+```sh
+python Tire_strategy.py
+```
+
 ## Output
 
 ![Tire usage](./pictures/Tire_usage.png)
