@@ -51,7 +51,7 @@ This analysis provides a broad overview and does not explore microclimates or sp
 
 In the "data gathering script" folder, find the 'f1_weather_data_analysis.py' script for data collection. The "plots scripts" folder contains scripts to generate correlation and histogram plots.
 
-## Dataset Statistics
+## Additional Information
 
 - **Maximum Values:**
   - AirTemp: 36.60°C
