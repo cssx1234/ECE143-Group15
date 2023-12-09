@@ -9,7 +9,7 @@
 #### Members:
 
 - [Abhishikta Panja](https://github.com/AbhishiktaP)
-- [Glenn Sivila](https://github.com/g-sivila)
+- [Glenn Siliva](https://github.com/g-sivila)
 - [Ruizhe Fan](https://github.com/cssx1234)
 - [Sushaanth Srinivasan](https://github.com/SushaanthSrinivasan)
 - [Taikun Lin](https://github.com/Diosssltk)
@@ -20,7 +20,32 @@ In Formula 1 racing, the delicate interplay between various factors can signific
 
 ## File Structure / Scripts
 
-Included in each folder are the necessary scripts for each inference as well as READEME's which contain more detailed analyses.
+### To visualize all inferences:
+
+1. Clone the repository.
+
+```sh
+git clone https://github.com/cssx1234/ECE143-Group15
+```
+
+2. Navigate into the required folder.
+
+```sh
+cd ECE143-Group15/Inferences
+```
+
+4. Install the required dependencies. \
+   Example using pip:
+
+```sh
+pip install -r requirements.txt
+```
+
+5. Open the file `Visualizations.ipynb` in a Jupyter Environment, Google Colab or VS Code and run all the cells.
+
+### To visualize individual inferences:
+
+Included in each folder are the necessary scripts for each inference as well as README files which contain more detailed instructions and analysis.
 
 ### Age & Experience vs. Driver Performance
 
