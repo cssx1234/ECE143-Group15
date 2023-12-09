@@ -9,9 +9,9 @@ Comparing the performance of the driver with respect to age and experience in F1
 
 # Usage:
 For running the code,
-'''sh
+```sh
 python Age_Vs_Experience.py
-'''
+```
 
 # Output:
 View output in "Bubble Plot".png
