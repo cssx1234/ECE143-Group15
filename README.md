@@ -9,7 +9,7 @@
 #### Members:
 
 - [Abhishikta Panja](https://github.com/AbhishiktaP)
-- [Glenn Siliva](https://github.com/g-sivila)
+- [Glenn Sivila](https://github.com/g-sivila)
 - [Ruizhe Fan](https://github.com/cssx1234)
 - [Sushaanth Srinivasan](https://github.com/SushaanthSrinivasan)
 - [Taikun Lin](https://github.com/Diosssltk)
